@@ -9,7 +9,7 @@ Systemet simulerer et startlys med en tilfældig ventetid og måler reaktionstid
 
 ## 🎥 Demo
 
-https://github.com/akhegr/ClutchTrainer/raw/refs/heads/main/movie.mp4
+https://github.com/user-attachments/assets/0a27a0ce-05f6-4845-9194-e37983f73d7c
 
 ---
 
