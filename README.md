@@ -7,6 +7,12 @@ Systemet simulerer et startlys med en tilfældig ventetid og måler reaktionstid
 
 ---
 
+## 🎥 Demo
+
+https://github.com/akhegr/ClutchTrainer/raw/refs/heads/main/movie.mp4
+
+---
+
 ## ✨ Funktioner
 - 🚦 **Simuleret startlys** – rød lampe tænder efter en tilfældig ventetid  
 - ⏱ **Reaktionstidsmåling** – måler hvor hurtigt koblingen slippes  
